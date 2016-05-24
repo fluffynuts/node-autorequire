@@ -1,0 +1,11 @@
+{
+  "name": "node-autorequire",
+  "version": "1.0.2",
+  "description": "a shim to require a module and npm install it if not found",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davyd McColl <davydm@gmail.com> (https://github.com/fluffynuts)",
+  "license": "BSD-2-Clause"
+}
