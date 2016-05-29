@@ -1,4 +1,3 @@
-console.log('auto-require include');
 const childProcess = require('child_process');
 function autoRequireGenerator(options) {
     if (typeof(options) === typeof('')) {
