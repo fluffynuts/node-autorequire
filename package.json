@@ -1,6 +1,6 @@
 {
   "name": "node-autorequire",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a shim to require a module and npm install it if not found",
   "main": "index.js",
   "scripts": {
